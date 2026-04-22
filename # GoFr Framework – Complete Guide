@@ -100,46 +100,8 @@ You prefer opinionated frameworks over endless configuration
 
 It may not be ideal if you want extreme flexibility or a completely unopinionated structure—but that’s the trade-off for speed and simplicity.
 
-How to Upload This Article to Your GitHub Repo
+## Contribution
 
-Now, let’s get practical.
+This article is part of my contribution to the GoFr community.
 
-Step 1: Create a Repository
-Go to GitHub
-Click New Repository
-Name it (e.g., gofr-article)
-Click Create
-Step 2: Create a File
-Click Add file → Create new file
-
-Name it:
-
-README.md
-
-or
-
-gofr-article.md
-Step 3: Paste the Article
-Copy the article above
-Paste it into the file
-Step 4: Commit
-
-Scroll down and click:
-
-Commit changes
-Step 5: (Optional) Use Git Locally
-
-If you want to upload using your computer:
-
-git clone https://github.com/your-username/gofr-article.git
-cd gofr-article
-
-Create a file:
-
-nano README.md
-
-Paste content, then:
-
-git add .
-git commit -m "Added GoFr article"
-git push
+If you found this helpful, feel free to share and support the project.
